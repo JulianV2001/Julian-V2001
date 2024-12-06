@@ -4,16 +4,14 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Julian Vidal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>Sobre mi! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
-  
+
+🏫: Soy autodidacta en programación y estoy constantemente aprendiendo nuevas tecnologias
+🌱: Estoy aprendiendo a crear páginas web modernas y a manejar mejor mis habilidades en programacion
+🤔 Estoy abierto a nuevas oportunidades laborales y colaboraciones.
+💬: Pregúntame sobre HTML, CSS, Bootstrap, JavaScript y desarrollo de páginas web. 🌐🖌️
+
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
