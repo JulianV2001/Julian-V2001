@@ -8,7 +8,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- 🏫: Soy autodidacta en programación y estoy constantemente aprendiendo nuevas tecnologias
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
