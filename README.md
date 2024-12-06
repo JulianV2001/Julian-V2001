@@ -5,13 +5,17 @@
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Julian Vidal<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Sobre mi! 😎</h1>
+
 <br>
 
--🏫: Soy autodidacta en programación y estoy constantemente aprendiendo nuevas tecnologias
--🌱: Estoy aprendiendo a crear páginas web modernas y a manejar mejor mis habilidades en programacion
--🤔 Estoy abierto a nuevas oportunidades laborales y colaboraciones.
--💬: Pregúntame sobre HTML, CSS, Bootstrap, JavaScript y desarrollo de páginas web. 🌐🖌️
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
 <br><br>
+
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
